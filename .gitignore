@@ -1,0 +1,9 @@
+# 编译产物
+bin/
+obj/
+.vs/
+*.user
+
+# 密钥，永远不提交
+APIKey.txt
+*.env
